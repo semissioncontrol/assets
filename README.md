@@ -1,4 +1,4 @@
 # assets
-Assets for SEMC
+Official assets for SEMC
 
  - [logo](logo)
