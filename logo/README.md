@@ -1,5 +1,7 @@
 # Logo
 
+Official logo content for SEMC.
+
  - [SEMC Logo Square.png](SEMC Logo Square.png)
  - [SEMC Logo Wide.png](SEMC Logo Wide.png)
  - [SEMC Logo.png](SEMC Logo.png)
